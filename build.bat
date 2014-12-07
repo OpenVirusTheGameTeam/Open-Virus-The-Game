@@ -6,3 +6,5 @@ echo You can replace this text, but dont replace the Echo off statement.
 echo Thanks, Jan4V.
 echo.
 echo PS: For unity building i have a separate plugin in Jenkins.
+
+rem Here put the commands.
