@@ -8,3 +8,4 @@ echo.
 echo PS: For unity building i have a separate plugin in Jenkins.
 
 rem Here put the commands.
+rem Test commit 3 - Hope it works this time.
