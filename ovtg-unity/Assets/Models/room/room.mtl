@@ -1,0 +1,11 @@
+# unvirus map
+# designed in THUMP
+
+newmtl slot4
+map_Kd black.png
+
+newmtl slot6
+map_Kd white.png
+
+newmtl slot15
+map_Kd grey.png
