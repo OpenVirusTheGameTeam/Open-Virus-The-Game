@@ -7,8 +7,10 @@ public class GameStarter : MonoBehaviour {
     public GameObject navSystemPrefab;
 
 	void Awake () {
-        GameObject.Instantiate(pilotPrefab, new Vector3(0, 20, 0), Quaternion.identity);
+        
+		GameObject.Instantiate(pilotPrefab, transform.position, Quaternion.identity); //Thought it would be easier if the player spawned wherever this object was
         GameObject.Instantiate(navSystemPrefab, Vector3.zero, Quaternion.identity);
+
 	}
 	
 	void Update () {

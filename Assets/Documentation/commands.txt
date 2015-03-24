@@ -1,0 +1,65 @@
+These are the current commands availble.
+
+Place commands in autoexec.ovs
+
+Many thanks to LordByron for the parsing code!
+
+====
+echo
+====
+
+Prints a message to the Unity console. Usefull for debuging.
+
+Usage:
+
+echo Hello, OSVTG!
+
+===
+rem
+===
+
+A simple remark. Does nothing, but helps people understand your spagehti code (you know who you are :D)
+
+Usage:
+
+rem This is a comment. Your mother is ugly.
+
+===========
+playerspeed
+===========
+
+This sets the speed at which you fly. Default is 15. 60 is sanic.
+
+Usage:
+
+playerspeed 9001
+
+==============
+texturequality
+==============
+
+This sets the texture quality. 0 is full res, 1 is half res, 2 is quarter res, and so on.
+
+Usage:
+
+texturequality 8
+
+=============
+pixlightcount
+=============
+
+This sets the pixel light count. Higher = better looking = more lag.
+
+Usage:
+
+pixlightcount 10
+
+========
+startdir
+========
+
+Does nothing put print a directory listing in the unity console. Will probably be removed in favor of a hard-coded starting dir.
+
+Usage:
+
+startdir Z:\raspberry\pi

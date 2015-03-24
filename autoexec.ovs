@@ -1,0 +1,4 @@
+rem This script will start up with the game.
+rem Please review commands.txt for scripting commands
+
+echo Autoexec launched!

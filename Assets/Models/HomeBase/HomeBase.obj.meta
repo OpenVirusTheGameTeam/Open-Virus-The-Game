@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: c442ea8f1cd94df42aba1c15e5e0ae99
+timeCreated: 1426190738
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: slot1
+    100004: slot303
+    100006: slot378
+    100008: slot411
+    100010: slot777
+    100012: slot784
+    100014: slot812
+    100016: slot813
+    100018: slot823
+    100020: slot827
+    100022: slot828
+    100024: slot835
+    100026: slot837
+    100028: slot843
+    100030: slot844
+    100032: slot860
+    100034: slot871
+    400000: //RootNode
+    400002: slot1
+    400004: slot303
+    400006: slot378
+    400008: slot411
+    400010: slot777
+    400012: slot784
+    400014: slot812
+    400016: slot813
+    400018: slot823
+    400020: slot827
+    400022: slot828
+    400024: slot835
+    400026: slot837
+    400028: slot843
+    400030: slot844
+    400032: slot860
+    400034: slot871
+    2300000: slot1
+    2300002: slot303
+    2300004: slot378
+    2300006: slot411
+    2300008: slot777
+    2300010: slot784
+    2300012: slot812
+    2300014: slot813
+    2300016: slot823
+    2300018: slot827
+    2300020: slot828
+    2300022: slot835
+    2300024: slot837
+    2300026: slot843
+    2300028: slot844
+    2300030: slot860
+    2300032: slot871
+    3300000: slot1
+    3300002: slot303
+    3300004: slot378
+    3300006: slot411
+    3300008: slot777
+    3300010: slot784
+    3300012: slot812
+    3300014: slot813
+    3300016: slot823
+    3300018: slot827
+    3300020: slot828
+    3300022: slot835
+    3300024: slot837
+    3300026: slot843
+    3300028: slot844
+    3300030: slot860
+    3300032: slot871
+    4300000: slot1
+    4300002: slot303
+    4300004: slot378
+    4300006: slot411
+    4300008: slot777
+    4300010: slot784
+    4300012: slot812
+    4300014: slot813
+    4300016: slot823
+    4300018: slot827
+    4300020: slot828
+    4300022: slot835
+    4300024: slot837
+    4300026: slot843
+    4300028: slot844
+    4300030: slot860
+    4300032: slot871
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
