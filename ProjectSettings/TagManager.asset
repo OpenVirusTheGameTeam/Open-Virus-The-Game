@@ -8,6 +8,8 @@ TagManager:
   - moveDown
   - moveLeft
   - moveRight
+  - SERVER_OBJ
+  - CLIENT_OBJ
   layers:
   - Default
   - TransparentFX
